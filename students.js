@@ -1,0 +1,1 @@
+Le code JavaScript gère le fonctionnement de l’application côté client. Il permet de récupérer les données saisies dans les formulaires, de vérifier leur validité, d’ajouter dynamiquement les étudiants à la liste, de mettre à jour l’interface utilisateur en temps réel et d’améliorer l’interactivité générale du système sans recharger la page
